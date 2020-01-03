@@ -1,0 +1,37 @@
+body {
+  background-color: aquamarine;
+}
+
+.center {
+  width: 400px;
+  margin: 50px auto;
+}
+h2 {
+  text-align: center;
+}
+input {
+  font-size: 2em;
+  width: 100%;
+  text-align: center;
+}
+input::placeholder {
+  font-size: 0.6em;
+}
+
+button {
+  font-size: 2em;
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+.container {
+  height: 50px;
+  width: 100%;
+  background-color: cornsilk;
+}
