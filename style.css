@@ -26,6 +26,9 @@ button {
   align-items: center;
 }
 
+small{
+  display:grid;
+}
 h1 {
   font-size: 3em;
   text-align: center;
